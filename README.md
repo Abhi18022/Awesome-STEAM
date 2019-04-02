@@ -8,3 +8,4 @@ Path to a free self-taught education in STEM inspired by ossu curriculum   [![Aw
 * [Map of Science & everthing else](https://www.youtube.com/watch?v=ohyai6GIRZg&list=PLOYRlicwLG3St5aEm02ncj-sPDJwmojIS&index=6)
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA&list=PLOYRlicwLG3St5aEm02ncj-sPDJwmojIS&index=3)
 * [Image of maps of science](https://imgur.com/gallery/XKDvc) a image of maps of different subject.
+* [List of fantastic youtube channels](https://standard.tv/)
