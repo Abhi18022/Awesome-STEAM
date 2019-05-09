@@ -9,3 +9,8 @@ Path to a free self-taught education in STEM inspired by ossu curriculum   [![Aw
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA&list=PLOYRlicwLG3St5aEm02ncj-sPDJwmojIS&index=3)
 * [Image of maps of science](https://imgur.com/gallery/XKDvc) a image of maps of different subject.
 * [List of fantastic youtube channels](https://standard.tv/)
+# Github Repo
+* [Self Taught CS](https://github.com/ossu/computer-science#readme)
+* [Self taught Bioinformation](https://github.com/ossu/bioinformatics)
+* [A to Z course](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+* [Awesome Computer Science](https://github.com/watson/awesome-computer-history)
