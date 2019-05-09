@@ -13,4 +13,4 @@ Path to a free self-taught education in STEM inspired by ossu curriculum   [![Aw
 * [Self Taught CS](https://github.com/ossu/computer-science#readme)
 * [Self taught Bioinformation](https://github.com/ossu/bioinformatics)
 * [A to Z course](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
-* [Awesome Computer Science](https://github.com/watson/awesome-computer-history)
+* [Computer Science History](https://github.com/watson/awesome-computer-history)
